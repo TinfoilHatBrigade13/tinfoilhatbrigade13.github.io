@@ -29,6 +29,9 @@ var fun = function lang(l) {
   return true;
 }
 ```
+* * *
+Stuff here
+ ---
 
 ```ruby
 # Ruby code with syntax highlighting
